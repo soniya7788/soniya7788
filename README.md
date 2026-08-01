@@ -1,5 +1,5 @@
 ## 💫 About Me:
-### 💫 About Me<br><br>Hi! I'm Soniya, a Computer Engineering graduate who enjoys building web applications and learning new technologies. I started my journey with Java and gradually explored web development, working on projects that helped me understand how real-world applications are built.<br><br>I like solving problems, writing clean code, and continuously improving my skills. Recently, I've been working with Java, JavaScript, React, SQL, and the MERN stack while also strengthening my understanding of data structures and backend development.<br><br>I'm currently looking for opportunities where I can learn from experienced developers, contribute to meaningful projects, and grow as a Full Stack Developer. Outside of coding, I enjoy exploring new tech, participating in coding competitions, and taking on projects that challenge me.
+#### 💫 About Me<br><br>Hi! I'm Soniya, a Computer Engineering graduate who enjoys building web applications and learning new technologies. I started my journey with Java and gradually explored web development, working on projects that helped me understand how real-world applications are built.<br><br>I like solving problems, writing clean code, and continuously improving my skills. Recently, I've been working with Java, JavaScript, React, SQL, and the MERN stack while also strengthening my understanding of data structures and backend development.<br><br>I'm currently looking for opportunities where I can learn from experienced developers, contribute to meaningful projects, and grow as a Full Stack Developer. Outside of coding, I enjoy exploring new tech, participating in coding competitions, and taking on projects that challenge me.
 
 
 ## 🌐 Socials:
@@ -12,7 +12,3 @@
 ![](https://streak-stats.demolab.com/?user=soniya7788&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=soniya7788&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=soniya7788&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
