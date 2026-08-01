@@ -1,8 +1,8 @@
 # 💫 About Me:
-## 💫 About Me<br><br>Hi! I'm Soniya, a Computer Engineering graduate who enjoys building web applications and learning new technologies. I started my journey with Java and gradually explored web development, working on projects that helped me understand how real-world applications are built.<br><br>I like solving problems, writing clean code, and continuously improving my skills. Recently, I've been working with Java, JavaScript, React, SQL, and the MERN stack while also strengthening my understanding of data structures and backend development.<br><br>I'm currently looking for opportunities where I can learn from experienced developers, contribute to meaningful projects, and grow as a Full Stack Developer. Outside of coding, I enjoy exploring new tech, participating in coding competitions, and taking on projects that challenge me.
+# 💫 About Me<br><br>Hi! I'm Soniya, a Computer Engineering graduate who enjoys building web applications and learning new technologies. I started my journey with Java and gradually explored web development, working on projects that helped me understand how real-world applications are built.<br><br>I like solving problems, writing clean code, and continuously improving my skills. Recently, I've been working with Java, JavaScript, React, SQL, and the MERN stack while also strengthening my understanding of data structures and backend development.<br><br>I'm currently looking for opportunities where I can learn from experienced developers, contribute to meaningful projects, and grow as a Full Stack Developer. Outside of coding, I enjoy exploring new tech, participating in coding competitions, and taking on projects that challenge me.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soniya-yadav19/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soniyaryadav@gmail.com) 
 
 # 💻 Tech Stack:
